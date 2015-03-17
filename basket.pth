@@ -23,6 +23,7 @@ src/django-cors-headers
 src/django-fixture-magic
 src/django-mozilla-product-details
 src/django-piston
+src/django-ratelimit
 src/django-statsd
 src/dnspython
 src/requests

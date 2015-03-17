@@ -40,3 +40,6 @@
 [submodule "src/django-sslify-admin"]
 	path = src/django-sslify-admin
 	url = git://github.com/return1/django-sslify-admin.git
+[submodule "src/django-ratelimit"]
+	path = src/django-ratelimit
+	url = git://github.com/jsocol/django-ratelimit.git
